@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="steam_1">#FF314055</color>
+    <color name="steam_2">#FF060F18</color>
+    <color name="steam_3">#FF1B2435</color>
+    <color name="steam_4">#FF8D9095</color>
+    <color name="steam_5">#FF1B243F</color>
+</resources>

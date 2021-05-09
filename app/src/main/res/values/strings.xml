@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--region OTHERS-->
+    <string name="app_name">Steam Market Analyzer</string>
+    <!--endregion-->
+
+    <!--region CARD-->
+    <string name="image">Image</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <!--endregion-->
+
+    <!--region ITEM-->
+    <string name="sell">Sell:</string>
+    <string name="buy">Buy:</string>
+    <string name="difference">Difference:</string>
+    <string name="sell_difference">Sell difference:</string>
+    <string name="buy_difference">Buy difference:</string>
+    <string name="sell_amount">Sell amount:</string>
+    <string name="buy_amount">Buy amount:</string>
+    <string name="amount_difference">Amount difference:</string>
+
+    <string name="sell_range">Sell range:</string>
+    <string name="buy_range">Buy range:</string>
+    <string name="difference_range">Difference range:</string>
+    <string name="sell_difference_range">Sell difference range:</string>
+    <string name="buy_difference_range">Buy difference range:</string>
+    <string name="sell_amount_range">Sell amount range:</string>
+    <string name="buy_amount_range">Buy amount range:</string>
+    <string name="amount_difference_range">Amount difference range:</string>
+
+    <string name="currency">Currency:</string>
+    <string name="currency_value">1</string>
+
+    <string name="refresh">Refresh:</string>
+    <string name="refresh_value">0:0:0:30</string>
+
+    <string name="price">0.00$</string>
+    <string name="range">0.00</string>
+    <string name="amount">0</string>
+    <string name="multiplier">x</string>
+    <!--endregion-->
+
+    <!--region ACTIVITY_MAIN-->
+    <string name="translation_dialog">Translation dialog</string>
+    <string name="item_dialog">Item dialog</string>
+
+    <string name="e_item">eItem</string>
+
+    <!--region SHARED_PREFERENCES-->
+    <string name="k_main_state">kMainState</string>
+    <string name="k_items">kItems</string>
+    <!--endregion-->
+
+    <!--endregion-->
+
+    <!--region DIALOG_ITEM-->
+    <string name="link">Link</string>
+    <string name="name">Name</string>
+
+    <string name="site">https://steamcommunity.com/market/listings/</string>
+
+    <string name="image_prefix_old">community.cloudflare</string>
+    <string name="image_prefix_new">https://community.akamai</string>
+    <!--endregion-->
+
+    <!--region DIALOG_TRANSLATION-->
+    <string name="translation">Translation</string>
+    <!--endregion-->
+
+</resources>
